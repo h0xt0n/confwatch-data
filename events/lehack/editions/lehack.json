@@ -1,0 +1,14 @@
+{
+	"title": "leHACK",
+	"type": 0,
+	"description": "Le french hacking conference will be held in la Cité des Sciences et de l'Industrie, Paris (FR), on July 6 & 7 2019.",
+	"website": "https://lehack.org",
+	"country": "FR",
+	"city": "Paris",
+	"address": "Cite des Sciences et de l Industrie, 30 Avenue Corentin Cariou, 75019 Paris",
+	"starts": "2019-07-06T09:00:00+01:00",
+	"ends": "2019-07-07T07:00:00+01:00",
+	"tags": "lehack,hzv",
+	"attributes": [
+		"code-of-conduct"
+]
